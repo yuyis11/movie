@@ -6,7 +6,7 @@ import comentario from "../routes/comentario.js"
 import pelicula from "../routes/pelicula.js"
 import actores from "../routes/actores.js"
 import favoritos from "../routes/favoritos.js"
-import fileUpload from "express-fileUpload"
+import fileUpload from "express-fileupload"
 
 class Server{
     constructor(){
